@@ -6,6 +6,7 @@ import { Experience } from "../src/sections/Experience";
 import { Testimonials } from "../src/sections/Testimonials";
 import { Contact } from "../src/sections/Contact";
 import { Footer } from "./layout/Footer";
+import { DrawCircleText } from "./sections/DrawCircleText";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <main>
         <Hero />
         <About />
+        <DrawCircleText/>
         <Projects />
         <Experience />
         <Testimonials />

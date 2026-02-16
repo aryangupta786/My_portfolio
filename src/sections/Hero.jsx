@@ -85,9 +85,11 @@ export const Hero = () => {
                 </span>
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                Hi, I'm Pedro Machado — a software engineer specializing in
-                React, Next.js, and TypeScript. I build scalable, performant web
-                applications that users love.
+                Hi, I'm Aryan Gupta — a passionate web developer and Computer
+                Science student. I enjoy building responsive and user-friendly
+                web applications using modern technologies like React and
+                JavaScript while continuously learning and improving through
+                internships, projects, and hackathons.
               </p>
             </div>
 
@@ -148,10 +150,8 @@ export const Hero = () => {
                 </div>
                 {/* Stats Badge */}
                 <div className="absolute -top-4 -left-4 glass rounded-xl px-4 py-3 animate-float animation-delay-500">
-                  <div className="text-2xl font-bold text-primary">5+</div>
-                  <div className="text-xs text-muted-foreground">
-                    Years Exp.
-                  </div>
+                  <div className="text-2xl font-bold text-primary">1+</div>
+                  <div className="text-xs text-muted-foreground">years </div>
                 </div>
               </div>
             </div>

@@ -49,22 +49,27 @@ export const About = () => {
 
             <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
               <p>
-                I'm a passionate software engineer with over 5 years of
-                experience crafting digital products that make a difference. My
-                journey started with a curiosity for how things work on the web,
-                and it has evolved into a deep expertise in modern frontend
-                technologies.
+                I'm a passionate web developer who loves building things for the
+                internet. My journey started with curiosity about how websites
+                work, and since then I’ve been constantly learning and improving
+                my skills in modern web technologies.
               </p>
+
               <p>
-                I specialize in React, Next.js, and TypeScript, building
-                everything from sleek landing pages to complex enterprise
-                applications. My approach combines technical excellence with a
-                keen eye for design and user experience.
+                I have worked as a Web Development Intern at two companies,
+                where I built responsive interfaces, fixed real production
+                issues, and collaborated with teams to deliver features.
+                Alongside this, I actively participate in hackathons and have
+                won multiple competitions, which strengthened my problem-solving
+                and teamwork abilities.
               </p>
+
               <p>
-                When I'm not coding, you'll find me exploring new technologies,
-                contributing to open-source projects, or sharing knowledge with
-                the developer community.
+                I enjoy working with technologies like React, JavaScript, and
+                modern frontend tools to create clean and user-friendly
+                applications. Currently, I’m focused on growing as a developer,
+                building projects, and contributing to meaningful products while
+                continuously learning new technologies.
               </p>
             </div>
 

@@ -2,12 +2,12 @@ import { ArrowUpRight, Github } from "lucide-react";
 import { AnimatedBorderButton } from "../components/AnimatedBorderButton";
 const projects = [
   {
-    title: "Fintech Dashboard",
+    title: "FarmEase - Smart Agriculture Platform",
     description:
-      "A comprehensive financial analytics platform with real-time data visualization, portfolio management, and AI-powered insights.",
+      "We provide tools that a farmer needs. Our website provides an all over solution for farmers, that can be used to and AI-powered insights.",
     image: "/projects/project1.png",
-    tags: ["React", "Typescript", "NodeJS"],
-    link: "#",
+    tags: ["Next.js", "Typescript", "NodeJS"],
+    link: "https://farmease.vercel.app",
     github: "#",
   },
   {
