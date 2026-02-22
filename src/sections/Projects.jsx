@@ -11,32 +11,15 @@ const projects = [
     github: "#",
   },
   {
-    title: "E-Commerce Platform",
+    title: "Food Pirates - Food Delivery App",
     description:
-      "A full-featured e-commerce solution with inventory management, payment processing, and analytics dashboard.",
+      "A full-featured food delivery platform with real-time order tracking, personalized recommendations, and seamless payment integration.",
     image: "/projects/project2.png",
-    tags: ["Next.js", "Stripe", "PostgreSQL", "Tailwind"],
-    link: "#",
+    tags: ["React.js", "Stripe", "PostgreSQL", "Tailwind"],
+    link: "https://food-pirates.vercel.app",
     github: "#",
   },
-  {
-    title: "AI Writing Assistant",
-    description:
-      "An intelligent writing tool powered by GPT-4, helping users create better content faster.",
-    image: "/projects/project3.png",
-    tags: ["React", "OpenAI", "Python", "FastAPI"],
-    link: "#",
-    github: "#",
-  },
-  {
-    title: "Project Management Tool",
-    description:
-      "A collaborative workspace for teams with real-time updates, task tracking, and integrations.",
-    image: "/projects/project4.png",
-    tags: ["Next.js", "Socket.io", "MongoDB", "Redis"],
-    link: "#",
-    github: "#",
-  },
+  
 ];
 
 export const Projects = () => {
